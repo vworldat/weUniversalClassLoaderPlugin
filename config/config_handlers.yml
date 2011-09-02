@@ -1,0 +1,5 @@
+config/namespaces.yml:
+  class:        weNamespacesConfigHandler
+  file:         %sf_root_dir%/plugins/weUniversalClassLoaderPlugin/lib/config/weNamespacesConfigHandler.php
+  param:
+    prefix:     namespaces_

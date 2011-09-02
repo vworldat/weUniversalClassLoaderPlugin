@@ -1,0 +1,5 @@
+all:
+  register:
+    namespaces:
+      # all src paths are relative to sf_root_dir
+      'Symfony\Component\ClassLoader':  '/plugins/weUniversalClassLoaderPlugin/src'
